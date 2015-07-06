@@ -1,4 +1,4 @@
-=== Screenr oEmbed ===
+=== Embedr oEmbed ===
 Contributors: Maarten Zeinstra / Kennisland / Embedr.eu
 Tags: embedr, embedr.eu, oEmbed, images
 Requires at least: 3.7
@@ -11,7 +11,7 @@ Allow Wordpress to use oEmbed services from embedr.eu
 
 == Description ==
 
-Allow Wordpress to use oEmbed services from embedr.eu
+Allows Wordpress to use oEmbed services from embedr.eu
 
 Paste an Embedr.eu link into your post or page to automatically embed a rich embedr.eu image
 
@@ -19,7 +19,7 @@ Paste an Embedr.eu link into your post or page to automatically embed a rich emb
 == Installation ==
 
 1. Go to Dashboard >> Plugins >> Add New >> Search
-2. Search for "Embedr oEmbed plugin," click "Install Now," then "Activate Plugin"
+2. Search for "Embedr oEmbed," click "Install Now," then "Activate Plugin"
 
 == Frequently Asked Questions ==
 
