@@ -1,4 +1,4 @@
-## Screenr oEmbed
+## Embedr oEmbed
 Contributors: Kennisland / Embedr.eu
 Tags: embedr, embedr.eu, oEmbed, images
 Requires at least: 3.7
